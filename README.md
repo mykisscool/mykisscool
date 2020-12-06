@@ -1,7 +1,7 @@
 <div style="overflow-x: scroll; width: 400px;">
 <h3>Web Development</h3>
-<marquee>Hi- My name is Mike and I'm a Web Developer!!!1</marquee>
-<p><u>Top Skills:</u></p>
+<p>Hi- My name is Mike and I'm a Web Developer!!!1</p>
+<p>Top Skills:</p>
 <ul>
 <li>HTML</li>
 <li>PHP</li>
@@ -11,5 +11,5 @@
 <li></li>
 <li>CSS (Cascading Style Sheets)</li>
 </ul>
-<p style="color: #f00; text-decoration: underline;"><strong>No longer available to freelance. Sorry.</strong></p>
+<p><strong>No longer available to freelance. Sorry.</p>
 </div>
